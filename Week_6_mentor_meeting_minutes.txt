@@ -1,0 +1,55 @@
+Week 6 Meeting Minutes.
+
+Present: Samuel, Alex, Genevieve, and Vivek.
+Mentor: Damiano Spina
+
+Progress thus far:
+- We have explored a series of models, we are thinking of either using a model from Sckit, however this could be problematic due to the large number of contributing attributes or alternatively, there exists techniques to provide explanations for black box classifiers such as Random Forests
+- We have established a latex project for the group to collaborate into.
+- We have also been discussing novelties for our frontend implementation with ideas surrounding user interaction, with adjustable features allowing for hypothetical exploration. As well as this we will have feature importance to explain model predictions. (Alexander, Genevieve)
+
+Next steps:
+- The next stages for the next fortnight include: 
+	- reviewing other FICO contestant submissions/ previous student work for the WIL project
+	- further work on clarifying novel ideas for the HELOC challenge
+	- selecting models, evaluation metrics
+	- user stories
+	- EDA and pre-processing
+	- Writing up introduction in report
+
+task delegation:
+
+	Genevieve - organising tasks to complete on Trello timelines, review fico/WIL works, user stories
+	Alexander - clarifying ideas for specification / report introduction
+	Elissa - clarifying ideas for specification / user stories
+	Sam - review fico/WIL works, exploratory data analysis
+	Stephen - review fico/WIL works, exploratory data analysis
+	Vivek - specification, exploratory data analysis
+
+
+Meeting minutes:
+
+We need to look into the models used: so we can see what the state of the art, to make sure we don't just do what they have done.
+
+We will be working on expanding our novelty. 
+
+We need to research what has been preposed, we can see this here: https://community.fico.com/s/explainable-machine-learning-challenge.
+
+This has been explored, we should explore this, in order to be complimentary to the existing work. 
+
+Have a look at the past submissions.
+
+Try to get something small and tangible -> first iteration
+
+
+
+
+
+
+
+
+
+
+
+
+
