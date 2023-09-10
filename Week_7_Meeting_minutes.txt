@@ -1,0 +1,47 @@
+
+Present: Samuel, Alex, Genevieve.
+
+Mentor: Damiano Spina
+
+Progress thus far:
+- Researched previous submissions and analysed their novelties.
+- Explored potential models and architectures, potentially an ensemble method such as Random Forests or Gradient Boosting.
+- Explored ways to make models explainable e.g. Lime and SHAP.
+- We have also been discussing how to develop the frontend, potential options are flask or shiny app. 
+
+We discovered an interactive interface had already been done, so we are now brainstorming ways to adjust our project plan so it will still be novel, such as:
+
+-  Being able to compare with similar entries both for the same and different predicted label for loan status.
+
+Meeting Minutes:
+
+
+Start building stuff:
+
+Damiano suggest starting with something that isn't novel and then from their we can come up with the novelty. 
+
+Alex suggest splitting up into groups, some developing some continuing with novelties.
+
+Some other groups have more tangible stuff, however most are at a similar stage.
+
+Do stuff then figure it out.
+
+The quicker we iterate the less risk of not having a feasible solutions. 
+
+
+In terms of the presentations what do we need?
+
+What they gave is an example what what they expect, but we need to follow the rubric.
+
+We need to make sure we synchronise the problems as the audience doesn't know the solution, explain the problem and what is the gap. Having a demo is the best. We want to show something. After the pitch the stakeholders need to be convinced.
+
+Describe problem,
+Pitch idea, 
+Demo.
+
+
+We can start producing things that are already out there and then innovate. 
+
+
+
+
