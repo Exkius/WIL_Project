@@ -11,6 +11,15 @@
             display: flex;
             flex-direction: column;
             height: 100vh;
+            font-family: Georgia, serif;
+            background-color: #F7FBFC;
+        }
+
+        input {
+            background-color: #F7FBFC;
+            border: 1px solid #ccc; 
+            border-radius: 5px; 
+            padding: 5px; 
         }
         
         .container {
@@ -37,11 +46,12 @@
             border: none;
             padding: 10px 20px;
             cursor: pointer;
+            border-radius: 5px; 
         }
 
         button:hover {
             background-color: #567ea4;
-        }
+}
 
         .rectangles-container {
             display: flex;
@@ -98,11 +108,11 @@
 
         .input-with-button {
             display: flex;
-            align-items: center; /* Vertically align the items */
+            align-items: center; 
         }
 
         .input-with-button input {
-            margin-right: 5px; /* Adjust the margin as needed */
+            margin-right: 5px; 
         }
     </style>
 </head>
@@ -121,9 +131,9 @@
                 <p class="signup-link">Don't have an account? <a href="#">Sign up</a></p>
             </div>
 
-            <h3>User Input</h3>
+            <h3>Top five features</h3>
             <form method="POST">
-                <!-- Your feature inputs -->
+                <!-- feature inputs -->
                 <label for="feature1">Feature 1:</label><br>
                 <input type="number" step="0.01" id="feature1" name="feature1" required><br><br>
 
@@ -139,8 +149,9 @@
                 <label for="feature5">Feature 5:</label><br>
                 <input type="number" step="0.01" id="feature5" name="feature5" required><br><br>
 
-                <!-- Other Features dropdown -->
-                <label for="other-features">Other Features:</label><br>
+                
+                <h3>Other features</h3>
+                
                 <select id="other-features" name="other-features">
                     <option value="Feature 6">Feature 6</option>
                     <option value="Feature 7">Feature 7</option>
@@ -160,14 +171,14 @@
                     <option value="Feature 21">Feature 21</option>
                     <option value="Feature 22">Feature 22</option>
                     <option value="Feature 23">Feature 23</option>
-                </select><br><br>
+                </select><br>
 
-                <!-- Additional input field for the selected other feature -->
+                
                 <label for="other-features-value">Enter the value for the selected feature:</label>
                 <div class="input-with-button">
                     <input type="number" step="0.01" id="other-features-value" name="other-features-value" required>
                     <button type="button" id="save-button">Save</button>
-                </div><br><br>
+                </div><br>
 
                 <button type="submit">Predict</button>
             </form>
