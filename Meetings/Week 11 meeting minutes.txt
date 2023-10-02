@@ -1,0 +1,59 @@
+Week 11 meeting
+
+
+--What is happening later--
+
+
+We will watch their videos and asking questions.
+
+
+They will also ask us questions.
+
+
+-- Update.--
+
+With the extra time, we were able to get the prototype ready. We were able to convey what we had done. We had a demo recorded for the recording, and can achieve the functionality.
+
+Following a user same. Originally the explanation showed he would be a risk, and therefore unlikely, but adjusting how the was recommended, it approved. 
+
+He was able to identify how to improve his chances.
+
+
+The backend is a random forest, and then a LIME explainer which creates a simplified instance of the model, and can show which features contributed. With this output we are able to generate graphs and text features. 
+
+
+-- How was it different --
+
+In how it was presented to the user, we showed in both a visual and textual manner, we also suggested specific ways to improve. 
+
+
+The other solutions:
+
+They didn't do it to the degree of ours.
+
+-- What we need to do in the report __
+
+Make sure we discuss what exactly each systems does, in the report.
+
+A visual representation of ours vs their's is a good way to show differences.
+
+Also referencing different papers that discuss their model and solution.
+
+-- Moving Forward --
+
+
+Splitting into two groups:
+
+Group 1 will make the model cleaner.
+
+Group 2 will work on the report.
+
+
+
+
+
+
+
+
+
+

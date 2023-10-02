@@ -1,0 +1,32 @@
+Week 10 Meeting.
+
+Progress
+
+Figma prototype almost complete, just final formats.
+
+Flask app project begun, simple css, and html implemented, app has been deployed now working on implementing model and rendering plots.
+
+We have lost a group member Vivek.
+
+Should we still include Vivek in final contribution: 0%.
+
+It important to be honest, don't o0ver sell. This is what we have, this is what we are working. We need to communicate how we will get to the viable product. What do we want to see in the near future. 
+
+
+We need to highlight what is currently viable for the stakeholder now.
+
+Get the minimum viable product ready for the demo. 
+
+We need to show what we have ready, and then explain what we will get it to. Show what we have even in the backend.
+
+We want to communicate visibility. We want to show the evidence that we can deliver. I.e. what have we solved that shows we are capable of implementing the interaction. 
+
+Show something tangible.
+
+We want to show we understand the problem, an
+
+It all about the narrative, how can we show the value of what we already have. 
+
+Mock up should be last slide... 
+
+All members must attend the session next week. 
